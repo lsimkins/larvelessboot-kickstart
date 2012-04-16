@@ -1,0 +1,17 @@
+# Eclipse
+.project
+.metadata
+.settings/
+.buildpath
+
+# OS X
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+favicon.*
+
+
