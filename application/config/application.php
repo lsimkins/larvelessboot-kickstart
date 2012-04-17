@@ -117,7 +117,7 @@ return array(
 
 	'aliases' => array(
 		'Auth'       => 'Laravel\\Auth',
-		'Asset'      => 'Laravel\\Asset',
+		'Asset'      => 'Kickstart\\Asset',
 		'Autoloader' => 'Laravel\\Autoloader',
 		'Blade'      => 'Laravel\\Blade',
 		'Bundle'     => 'Laravel\\Bundle',

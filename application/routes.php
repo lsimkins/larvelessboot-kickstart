@@ -33,10 +33,9 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('home.index');
-});
+Route::controller('home');
+
+Route::get('/', array('as' => 'home', 'uses' => 'home@index'));
 
 /*
 |--------------------------------------------------------------------------
