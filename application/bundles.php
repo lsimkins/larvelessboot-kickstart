@@ -33,4 +33,6 @@
 |
 */
 
-return array();
+return array(
+	'eloquent',
+);

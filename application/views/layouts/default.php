@@ -1,5 +1,5 @@
-<?php Asset::container('header')->add('bootstrap-less', 'libraries/bootstrap/less/bootstrap.less', 'less', array('rel' => 'stylesheet/less', 'type' => 'text/css'))?>
-<?php Asset::container('header')->add('bootstrap-responsive', 'libraries/bootstrap/less/responsive.less', 'less') ?>
+<?php Asset::container('header')->add('bootstrap-less', 'libraries/bootstrap/less/bootstrap.less', 'less', array('rel' => 'stylesheet/less'))?>
+<?php Asset::container('header')->add('bootstrap-responsive', 'libraries/bootstrap/less/responsive.less', 'less', array('rel' => 'stylesheet/less')) ?>
 
 <?php Asset::container('footer')->add('less', 'libraries/less.min.js') ?>
 <?php Asset::container('footer')->add('jquery', 'libraries/jquery.js'); ?>
