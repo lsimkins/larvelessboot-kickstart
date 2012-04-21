@@ -1,6 +1,6 @@
-## Kickstarter - A Personal Bootstrap Project Used to Kickstart Development
+## Kickstarter - A Personal Bootstrap Project
 
-This project is always a work in progress.
+This is a personal project used to kickstart my presonal projects.  It is always a work in progress.
 
 ### Uses:
 - Laravel v3.1.8
