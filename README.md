@@ -8,5 +8,6 @@ This is a personal project used to kickstart my presonal projects.  It is always
 - Twitter Bootstrap 2
 - LESS
 
-### Extends:
-- Laravel Asset class and Container to work with LESS
+### Extras:
+- Laravel Asset class and Container extended to work with LESS
+- Base controller allows "any_{$method}" actions as a catch-all in restful controllers 
